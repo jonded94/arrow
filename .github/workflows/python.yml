@@ -36,7 +36,6 @@ on:
       - '.dockerignore'
       - '.github/workflows/python.yml'
       - 'ci/**'
-      - 'cpp/**'
       - 'docker-compose.yml'
       - 'python/**'
 
